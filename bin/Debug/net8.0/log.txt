@@ -1,0 +1,8 @@
+2024-12-09 17:57:55:271 - Time to First Order Start called
+2024-12-09 17:58:29:359 - Time to First Order Start called
+2024-12-09 17:58:29:427 - Historical Arbitrage Analysis Start called
+2024-12-09 18:04:30:120 - Time to First Order Start called
+2024-12-09 18:04:38:116 - Time to First Order Start called
+2024-12-09 18:04:38:152 - Historical Arbitrage Analysis Start called
+2024-12-09 18:21:14:996 - Time to First Order Start called
+2024-12-09 18:21:15:057 - Historical Arbitrage Analysis Start called
